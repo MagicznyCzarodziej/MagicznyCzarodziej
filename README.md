@@ -1,16 +1,19 @@
-### Hi there 👋
+🖐 Hello there ( ͡° ͜ʖ ͡°), I'm Przemek. I'm Javascript enthusiast and I love building web apps using Node.js. See my [portfolio](http://przemyslawpitus.pl/portfolio/).
 
-<!--
-**MagicznyCzarodziej/MagicznyCzarodziej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Here are my favourite technologies:
+  - ES6+, Typescript
 
-Here are some ideas to get you started:
+Backend:
+  - Node.js + Express
+  - Socket.io
+  - MongoDB, MySQL
+  - REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend:
+  - Vue.js + Vuex
+  - React, Gatsby + Styled Components / CSS Modules
+  - Stylus, Sass
+
+I also know some C++ and Java. My latest project is mHome - smart home system based on Arduino and Raspberry Pi
+
+🔍 I am currently looking for a job as a JS Developer.
