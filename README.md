@@ -15,5 +15,3 @@ Frontend:
   - Stylus, Sass
 
 I also know some C++ and Java. My latest project is mHome - smart home system based on Arduino and Raspberry Pi
-
-🔍 I am currently looking for a job as a JS Developer.
