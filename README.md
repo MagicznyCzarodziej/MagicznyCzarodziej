@@ -10,8 +10,8 @@ Backend:
   - REST APIs
 
 Frontend:
+  - React, Redux, Gatsby + Styled Components / CSS Modules
   - Vue.js + Vuex
-  - React, Gatsby + Styled Components / CSS Modules
   - Stylus, Sass
 
 I also know some C++ and Java. My latest project is mHome - smart home system based on Arduino and Raspberry Pi
