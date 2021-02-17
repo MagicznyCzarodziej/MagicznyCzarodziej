@@ -1,4 +1,4 @@
-🖐 Hello there ( ͡° ͜ʖ ͡°), I'm Przemek, a Javascript enthusiast! I love building web apps using Node.js. See my [portfolio](http://przemyslawpitus.pl/portfolio/).
+🖐 Hello there (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ. * ･ ｡ﾟ, I'm Przemek, a Javascript enthusiast! I love building web apps using Node.js. See my [portfolio](http://przemyslawpitus.pl/portfolio/).
 
 ⚡ Here are my favourite technologies:
   - ES6+, Typescript
