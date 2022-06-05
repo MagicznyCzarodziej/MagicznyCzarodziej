@@ -1,17 +1,21 @@
-🖐 Hello there (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ. * ･ ｡ﾟ, I'm Przemek, a Javascript enthusiast! I love building web apps using Node.js. See my [portfolio](http://przemyslawpitus.pl/portfolio/).
+🖐 Hello there (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ. * ･ ｡ﾟ I'm not magic nor am I a wizard, but building web apps makes me feel like one.
 
-⚡ Here are my favourite technologies:
-  - ES6+, Typescript
+Currently I work as a software engineer at Allegro.
 
-Backend:
-  - Node.js + Express
-  - Socket.io
+⚡ Here's a list of cool words I use often:
+  - Kotlin, Spring
+  - Typescript, Node.js + Express
+  - React, Redux, MaterialUI / Styled Components / CSS(SASS) Modules
+  - REST APIs / Socket.io
   - MongoDB, MySQL
-  - REST APIs
 
-Frontend:
-  - React, Redux, Gatsby + Styled Components / CSS Modules
-  - Vue.js + Vuex
-  - Stylus, Sass
+And some fancy words I've used a few times:
+  - Electron (See my [P.I.T.U.S.](https://github.com/MagicznyCzarodziej/PITUS) app)
+  - Vue.js + Vuex (TypeScript support + Intellisense sucks, React FTW)
+  - Gatsby (used for my portfolio)
+  - Stylus
+  - C++ (where many of us have started. Not a fan, but it's usefull for coding Arduino boards)
 
-I also know some C++ and Java. My latest project is mHome - smart home system based on Arduino and Raspberry Pi
+My latest side project is [mHome](https://github.com/MagicznyCzarodziej/mHome) - smart home system based on Arduino and Raspberry Pi.
+
+You can also see my [portfolio](http://przemyslawpitus.pl/portfolio/), but it's really outdated. [LinkedIn](https://pl.linkedin.com/in/pitus) may be a better place to check my experience.
